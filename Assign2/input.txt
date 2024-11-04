@@ -1,0 +1,14 @@
+main()
+{
+INT i=0;
+INT total=0;
+FLOAT count;
+CHAR ch;
+input(count);
+for(i=0;i<10;i++)
+{
+read(x);
+total= total+x;
+}
+out(total);
+}
